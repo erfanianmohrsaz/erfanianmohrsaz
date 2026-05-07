@@ -62,9 +62,3 @@ To design **stable, secure, and efficient network infrastructures** and to evolv
 - Open-source contributions  
 - Infrastructure improvements & optimizations  
 
----
-
-## 📫 Contact Me
-- **Email:** amyrmhmdrfanyan@gmail.com  
-- **GitHub:** https://github.com/erfanianmohrsaz  
-- **LinkedIn:** in/Amir.MohammadErfanian
