@@ -41,8 +41,8 @@ To design **stable, secure, and efficient network infrastructures** and to evolv
 - Git & GitHub  
 - CI/CD basics (learning)  
 - YAML, configuration & automation basics  
-- Fundamentals of Infrastructure as Code (Terraform – learning)  
-- Ansible (junior level – learning)
+
+
 
 ---
 
